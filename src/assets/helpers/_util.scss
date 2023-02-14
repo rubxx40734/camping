@@ -1,0 +1,109 @@
+.bgCoverBottom{
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bgCover{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover cover;
+}
+.card-img {
+    object-fit: contain;
+    object-position: center;
+}
+.WB{
+    position: absolute;
+    bottom: 10%;
+    right: 12%;
+}
+.rounded-5{
+    border-radius: 20px;
+}
+.settingHover{
+    a:hover{
+        background-color: #c0a4a5;
+    }
+}
+.mb-6{
+    margin-bottom: 120px;
+}
+//拋棄羞恥心 設死寬高= =
+.w-15{
+    max-width: 15%;
+}
+.h-96{
+    height: 96px;
+}
+.h-150{
+    height: 150px;
+}
+.h-196{
+    height: 196px;
+}
+.h-200{
+    height: 200px;
+}
+.h-300{
+    height: 300px;
+}
+.h-341{
+    height: 341px;
+}
+.h-350{
+    height: 350px;
+}
+.h-420{
+    height: 420px;
+}
+.h-432{
+    height: 432px;
+}
+.h-470{
+    height: 470px;
+}
+.h-520{
+    height: 520px;
+}
+.h-582{
+    height: 582px;
+}
+.h-628{
+    height: 628px;
+}
+.h-850{
+    height: 850px;
+}
+
+//式水溫 改變一下響應式字體大小
+.spaceTitle{
+    font-size: 64px;
+    @include pad(){
+        font-size: 32px;
+    }
+}
+.backVideo{
+    height: 600px;
+    @include mobile(){
+        height: 300px;
+    }
+}
+.h-500{
+    height: 500px;
+    @include mobile(){
+        height: 400px;
+    }
+}
+.couponWidth{
+    width: 25%;
+    @include pad() {
+      width: 50%;
+    }
+  }
+//字體選擇
+.ff-r{
+    font-family: 'Roboto', sans-serif;
+}
+.ff-p{
+    font-family: 'Pacifico', cursive;
+}   

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ab565"],{"159d":function(e,o,s){"use strict";function t(e,o,s,t,n,r){return" orders "}s.r(o);var n={data(){return{}},methods:{async getOrders(){const e="https://vue3-course-api.hexschool.io/api/rhea0309/admin/orders",o=await this.axios.get(e);console.log(o)}},mounted(){this.getOrders()}},r=s("6b0d"),a=s.n(r);const d=a()(n,[["render",t]]);o["default"]=d}}]);
+//# sourceMappingURL=chunk-2d0ab565.0f4b9685.js.map
