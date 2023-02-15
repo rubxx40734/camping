@@ -95,9 +95,12 @@
 @import '../assets/helpers/loading.scss';
 .bgbanner{
     height: 500px;
-    background-image: url('../assets/productImg/banner.jpeg');
+    background-image: url('https://oscar55107.github.io/fireman/img/product-tent.2a2d2c8d.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover cover;
 }
 .hoverdetail:hover img{
   background-color: white;
