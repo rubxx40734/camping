@@ -71,10 +71,10 @@
   </div>
 
   <div class="mb-6 d-none d-xl-block">
-    <img src="../assets/productImg/home3.jpg" alt="home3" class="bgCoverBottom card-img h-850">
+    <img src="../assets/productImg/Home3.jpg" alt="home3" class="bgCoverBottom card-img h-850">
   </div>
   <div class="mb-6 d-block d-xl-none">
-    <img src="../assets/productImg/home3-1.jpg" alt="home3" class="bgCoverBottom card-img h-432">
+    <img src="../assets/productImg/Home3.jpg" alt="home3" class="bgCoverBottom card-img h-432">
   </div>
 
   <div class="connection bg-secondary p-6 d-flex flex-column align-items-center mb-4">

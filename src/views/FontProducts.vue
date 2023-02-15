@@ -94,8 +94,8 @@
 <style lang="scss">
 @import '../assets/helpers/loading.scss';
 .bgbanner{
-    height: 400px;
-    background-image: url('../assets/productImg/banner.jpg');
+    height: 500px;
+    background-image: url('../assets/productImg/banner.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
 }

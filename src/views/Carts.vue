@@ -110,7 +110,7 @@
     v-else>
       <h1 class="fw-bold text-center mb-5">購物車是空的喔</h1>
       <img src="../assets/productImg/cart.jpg"
-       class="card-img bgCover w-50 mb-5" alt="">
+       class="card-img bgCover w-100 mb-5 h-420" alt="">
       <router-link to="/fontproducts" class="btn btn-primary">購物去</router-link>
     </div>
 
