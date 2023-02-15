@@ -7,7 +7,7 @@
     <FontNavbar class="mb-7" id="title" ref="fontnav"></FontNavbar>
     <div class="container mb-7">
         <div class="row justify-content-center">
-            <div class="col-md-5 border me-7 h-520 mb-5 mb-md-0">
+            <div class="col-md-5 h-520 mb-5 mb-md-0">
                 <img :src="product.imageUrl" alt=""
                 class="card-img bgCover w-100 h-350">
                 <!-- <div class="overset"> -->
@@ -25,8 +25,8 @@
                 <p class="fs-2 text-primary mb-6">特價NT$ {{$filter.currency(product.price)}}</p>
                 <div class="shoppcart d-flex">
                     <input type="number" name="" v-model="data.qty"
-                     placeholder="數量" class="form-control w-25 me-3">
-                    <button class="btn btn-primary w-25" @click="addtocarts"
+                     placeholder="數量" class="form-control w-50 w-md-25 me-3">
+                    <button class="btn btn-primary w-50 w-md-25" @click="addtocarts"
                     :disabled="productId !== ''">
                       <div v-if="productId !== ''" class="spinner-border spinner-border-sm text-secondary" role="status">
                         <span class="visually-hidden">Loading...</span>
@@ -37,8 +37,8 @@
         </div>
     </div>
 
-    <div class="container mb-7">
-      <div class="title d-flex align-items-center mb-5">
+    <div class="container mb-7 mt-5">
+      <div class="title d-flex align-items-center mb-5 mt-5 mt-md-0">
         <div class="line me-3 bg-primary"></div>
         <h2>品牌思想</h2>
       </div>
@@ -48,10 +48,10 @@
         <div class="line me-3 bg-primary"></div>
         <h2>商品規格</h2>
       </div>
-      <p class="w-50"> {{ product.productRule1 }}</p>
-      <p class="w-50"> {{ product.productRule2 }}</p>
-      <p class="w-50"> {{ product.productRule3 }}</p>
-      <p class="w-50"> {{ product.productRule4 }}</p>
+      <p class="w-100 w-md-50"> {{ product.productRule1 }}</p>
+      <p class="w-100 w-md-50"> {{ product.productRule2 }}</p>
+      <p class="w-100 w-md-50"> {{ product.productRule3 }}</p>
+      <p class="w-100 w-md-50"> {{ product.productRule4 }}</p>
 
       <div class="title d-flex align-items-center mb-5 mt-5">
         <div class="line me-3 bg-primary"></div>

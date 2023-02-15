@@ -1,7 +1,7 @@
 <template>
   <FontNavbar></FontNavbar>
   <div class="backVideo position-relative border">
-    <video loop autoplay muted class="videoSetting">
+    <video loop="loop" autoplay="autoplay" muted="muted" class="videoSetting">
       <source type="video/mp4" src="https://assets.mixkit.co/videos/preview/mixkit-man-walking-along-an-old-narrow-alley-tracking-27238-large.mp4">
     </video>
     <h1 class="position-absolute top-50 start-50
