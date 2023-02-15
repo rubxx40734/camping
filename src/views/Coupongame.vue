@@ -1,7 +1,8 @@
 <template>
   <FontNavbar></FontNavbar>
   <div class="bgImg border">
-    <h1 class="text-center mt-5 mb-7 text-light">來個小遊戲吧!</h1>
+    <h1 class="text-center mt-5 mb-7 text-light ff-p">Coupon Game</h1>
+    <h2 class="text-center mt-5 mb-7 text-light ff-p">Try Lucky</h2>
     <div class="containe">
       <div class="d-flex justify-content-center">
         <LuckyWheel

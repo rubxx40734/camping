@@ -109,7 +109,7 @@
     <div class="container mt-7 d-flex flex-column align-items-center bg-secondary py-7 mb-7"
     v-else>
       <h1 class="fw-bold text-center mb-5">購物車是空的喔</h1>
-      <img src="../assets/productImg/cart.jpg"
+      <img src="https://youxiaaa.github.io/paixie/img/light.f207cc8b.jpeg"
        class="card-img bgCover w-100 mb-5 h-420" alt="">
       <router-link to="/fontproducts" class="btn btn-primary">購物去</router-link>
     </div>

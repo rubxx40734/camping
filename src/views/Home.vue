@@ -2,7 +2,7 @@
   <FontNavbar></FontNavbar>
   <div class="backVideo position-relative border">
     <video loop autoplay muted class="videoSetting">
-      <source type="video/mp4" src="../assets/productImg/Produce.mp4">
+      <source type="video/mp4" src="https://assets.mixkit.co/videos/preview/mixkit-man-walking-along-an-old-narrow-alley-tracking-27238-large.mp4">
     </video>
     <h1 class="position-absolute top-50 start-50
     text-light fw-bold translate-middle spaceTitle">用露營 看見世界的美好◎</h1>
@@ -10,7 +10,7 @@
   <div class="container mb-7">
     <div class="row mt-7 mb-7">
       <div class="col">
-        <img src="../assets/productImg/Home2.jpg" alt="homeimg1" class="bgCoverBottom card-img">
+        <img src="https://i.imgur.com/PQADM8x.jpg" alt="homeimg1" class="bgCoverBottom card-img">
       </div>
     </div>
     <div class="row">
@@ -39,7 +39,7 @@
          </p>
       </div>
       <div class="col-md-6">
-        <img src="../assets/productImg/Home1.jpg" alt="homeimg2" class="bgCoverBottom card-img h-350">
+        <img src="https://i.imgur.com/u1hfLrP.jpg" alt="homeimg2" class="bgCoverBottom card-img h-350">
       </div>
     </div>
   </div>
@@ -71,10 +71,10 @@
   </div>
 
   <div class="mb-6 d-none d-xl-block">
-    <img src="../assets/productImg/Home3.jpg" alt="home3" class="bgCoverBottom card-img h-850">
+    <img src="https://i.imgur.com/sgCEcEu.jpg" alt="home3" class="bgCoverBottom card-img h-850">
   </div>
   <div class="mb-6 d-block d-xl-none">
-    <img src="../assets/productImg/Home3.jpg" alt="home3" class="bgCoverBottom card-img h-432">
+    <img src="https://i.imgur.com/sgCEcEu.jpg" alt="home3" class="bgCoverBottom card-img h-432">
   </div>
 
   <div class="connection bg-secondary p-6 d-flex flex-column align-items-center mb-4">
