@@ -5,7 +5,7 @@
      <h1 class="text-center fw-bold mb-7 text-primary">那些關於我們的故事</h1>
      <div class="row mb-7" data-aos="fade-up" data-aos-duration="2000">
       <div class="col-md-6 mb-5 mb-md-0 ">
-          <img src="../assets/productImg/about1.jpg" alt=""
+          <img src="../assets/productImg/LED1-1.jpeg" alt=""
           class="card-img bgCover h-350">
       </div>
       <div class="col-md-6 mb-5 mb-md-0  d-flex align-items-center">
